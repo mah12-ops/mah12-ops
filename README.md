@@ -1,5 +1,5 @@
 # 💫 About Me:
-✋Hi , I'm Mihret Yirga<br>🌟I'm passionate full stack developer<br>✨I use to work with express and react<br>  I'm currently learning Next js<br><br> <br>
+✋Hi , I'm Mihret Yirga<br>🌟I'm passionate full stack developer<br>✨I use to work with express and react also  Next js<br><br> <br>
 
 
 ## 🌐 Socials:
